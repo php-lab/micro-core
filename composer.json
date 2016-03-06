@@ -1,7 +1,7 @@
 {
     "name": "php-lab/micro-core",
-    "description": "",
-    "keywords": [""],
+    "description": "Micro core for applications and micro services",
+    "keywords": ["Micro", "Service", "Core"],
     "license": "MIT",
     "authors": [
         {
