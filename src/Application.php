@@ -155,4 +155,14 @@ class Application implements \ArrayAccess
             }
         }
     }
+
+    /**
+     * Runs an application.
+     *
+     * @param string $id The unique name of the application engine.
+     */
+    public function run(string $id)
+    {
+        $this->__get($id);
+    }
 }
