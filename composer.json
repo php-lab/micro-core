@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "PhpLab\\Micro\\": ["src/", "tests/"]
+            "PhpLab\\Micro\\Core\\": ["src/", "tests/"]
         }
     }
 }
